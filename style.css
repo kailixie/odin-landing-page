@@ -23,6 +23,12 @@ ul {
     gap: 15px;
 }
 
+img {
+    max-width: 200px;
+    flex: none;
+    border-radius: 10px;
+}
+
 .hero,
 .footer {
     background-color: #1F2937;
@@ -39,10 +45,6 @@ ul {
     font-size: 36px;
     font-weight: extra-bold;
     color: #1F2937;
-}
-
-.images {
-    max-width: 100px;
 }
 
 .quote {
