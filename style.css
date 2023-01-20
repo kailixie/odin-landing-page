@@ -84,4 +84,13 @@ img {
 
 .action {
     background-color: #3882F6;
+    border-radius: 5px;
+    color: #e5e7eb;
+    display: flex;
+    padding: 20px 50px;
+    margin: 50px 75px;
+}
+
+.title {
+    font-weight: bold;
 }
