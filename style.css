@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 10%;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+ul {
+    list-style: none;
+}
+
+.header,
+.intro,
+.footer {
+    background-color: #1F2937;
+}
+
+.random {
+
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.action {
+    background-color: #3882F6;
+}
