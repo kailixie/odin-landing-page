@@ -43,8 +43,18 @@ img {
 
 .random {
     font-size: 36px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #1F2937;
+    display: flex;
+    flex-direction: column;
+}
+
+.images {
+    display: flex;
+    gap: 15px;
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
 }
 
 .quote {
