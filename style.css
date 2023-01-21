@@ -8,6 +8,11 @@ button {
     background-color: #3882F6;
     color: #e5e7eb;
     border-radius: 10%;
+    font-weight: bold;
+    border-style: none;
+    padding: 5px;
+    width: 90px;
+    border: 1px solid #f9faf8;
 }
 
 a {
@@ -89,8 +94,11 @@ img {
     display: flex;
     padding: 20px 50px;
     margin: 50px 75px;
+    gap: 100px;
+    align-items: center;
 }
 
 .title {
     font-weight: bold;
+    font-size: 20px;
 }
