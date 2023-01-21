@@ -38,7 +38,7 @@ img {
 .footer {
     background-color: #1F2937;
     color: #f9faf8;
-    font-size: 18px
+    font-size: 18px;
 }
 
 .container {
@@ -54,14 +54,14 @@ img {
     color: #1F2937;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 90px;
     align-items: center;
     margin-bottom: 50px;
 }
 
 .images {
     display: flex;
-    gap: 15px;
+    gap: 20px;
     font-size: 18px;
     font-weight: lighter;
     text-align: center;
@@ -75,7 +75,7 @@ img {
     font-weight: lighter;
     font-style: italic;
     color: #1F2937;
-    padding: 50px;
+    padding: 150px;
     display: flex;
     flex-direction: column;
 }
@@ -101,4 +101,9 @@ img {
 .title {
     font-weight: bold;
     font-size: 20px;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
 }
